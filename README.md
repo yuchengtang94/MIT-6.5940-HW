@@ -1,1 +1,3 @@
-Homework for EfficientML Course for future reference
+# Homework for EfficientML Course
+
+https://hanlab.mit.edu/courses/2024-fall-65940
